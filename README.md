@@ -11,5 +11,5 @@ USAGE:
 Enter the host-IP:
 10.10.10.1
 
-Enter the Host domain:
-sample.host
+Enter the Host 
+sample
