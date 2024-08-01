@@ -6,7 +6,7 @@ USAGE:
 
 #Execute the commad
 
-./**htb.sh**
+**sudo** ./**htb.sh**
 
 Enter the host-IP:
 10.10.10.1
